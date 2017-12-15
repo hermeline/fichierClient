@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Bubbler+One|Indie+Flower');
+
+body{
+  font-family: 'Bubbler One', sans-serif;
+  margin: 0 0;
+  padding: 0 0;
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  color: white;
+  margin-bottom: 8%;
+  margin-top:0;
+  padding-top: 4%;
+  font-size: 3.6em;
+  width: 100%;
+}
+
+.fa-thumbs-up{
+  color: green;
+}
+.fa-thumbs-down{
+  color: red;
+}
